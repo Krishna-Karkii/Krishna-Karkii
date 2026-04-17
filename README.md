@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I am a CS undergraduate trying to break into Machine Learning/Artificial Intelligence(ML/AI) field.
+I am a CS undergraduate trying to break into Machine Learning/Artificial Intelligence(ML/AI) field.
 <!--
 **Krishna-Karkii/Krishna-Karkii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
