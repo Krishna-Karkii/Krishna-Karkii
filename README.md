@@ -1,6 +1,16 @@
 ## Hi there 👋
 
 I am a CS undergraduate trying to break into Machine Learning/Artificial Intelligence(ML/AI) field.
+
+### 📊 My GitHub Stats
+<p align="left">
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="Krishna's GitHub Stats" height="190" />
+  </a>
+  <a href="https://github.com">
+    <img src="https://herokuapp.com" alt="Krishna's GitHub Streak" height="190" />
+  </a>
+</p>
 <!--
 **Krishna-Karkii/Krishna-Karkii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
