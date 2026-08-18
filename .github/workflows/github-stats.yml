@@ -27,6 +27,15 @@ jobs:
           options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=github_dark&hide_border=true'
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Generate streak
+        uses: be-next/github-streak-stats-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: profile/streak.svg
+          theme: dark
+          hide-border: true
 
       - name: Commit files
         run: |
@@ -36,11 +45,3 @@ jobs:
           git commit -m "Update GitHub stats" || exit 0
           git push
 
-      - name: Generate streak
-        uses: be-next/github-streak-stats-action@v1
-        with:
-          username: ${{ github.repository_owner }}
-          token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: profile/streak.svg
-          theme: dark
-          hide-border: true
