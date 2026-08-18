@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Krishna Karki
 
 ### Computer Science · Systems · ML/AI · Mathematics
 
@@ -22,26 +21,6 @@
 </p>
 
 ---
-
-## 🚀 Projects
-
-| Project                       | Focus                             |
-| ----------------------------- | --------------------------------- |
-| 🧠 Context-Aware Assistant    | RAG · Memory · AI Systems         |
-
-
----
-
-## 📚 Currently Learning
-
-
-**Mathematics** — Calculus · Linear Algebra · Probability · Proofs
-
-**AI/ML** — Deep Learning · RAG · LLMs · Knowledge Graphs
-
----
-
-> **Don't just learn the API. Understand the abstraction.**
 
 <p align="center">
   <i>Building slowly. Understanding deeply. Shipping consistently.</i>
