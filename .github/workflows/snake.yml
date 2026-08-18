@@ -9,7 +9,6 @@ jobs:
 generate:
 runs-on: ubuntu-latest
 
-```
 permissions:
   contents: write
 
@@ -31,4 +30,3 @@ steps:
       publish_dir: ./dist
       publish_branch: output
       commit_message: "Update contribution snake"
-```
