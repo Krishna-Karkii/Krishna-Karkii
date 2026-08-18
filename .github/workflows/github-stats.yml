@@ -35,3 +35,12 @@ jobs:
           git add profile/*.svg
           git commit -m "Update GitHub stats" || exit 0
           git push
+
+      - name: Generate streak
+        uses: be-next/github-streak-stats-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: profile/streak.svg
+          theme: dark
+          hide-border: true
