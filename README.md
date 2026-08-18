@@ -1,22 +1,16 @@
 # 👋 Hi, I'm Krishna Karki
 
-### Computer Science • Systems • ML/AI • Mathematics
+### Computer Science · Systems · ML/AI · Mathematics
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishna-Karkii&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-Karkii&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+  <img src="./profile/stats.svg" width="48%" />
+  <img src="./profile/top-langs.svg" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Krishna-Karkii&theme=github-dark-blue&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna-Karkii&theme=github-compact&hide_border=true&area=true" width="95%"/>
+  <img src="./profile/streak.svg" width="70%" />
 </p>
 
 ---
@@ -24,36 +18,33 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,fastapi,react,postgres,redis,kafka,docker,linux,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,react,fastapi,postgres,redis,kafka,docker,linux,pytorch" />
 </p>
 
 ---
 
 ## 🚀 Projects
 
-* 🧠 **Context-Aware Assistant** — RAG, memory & scalable backend systems
+| Project                       | Focus                             |
+| ----------------------------- | --------------------------------- |
+| 🧠 Context-Aware Assistant    | RAG · Memory · AI Systems         |
+
 
 ---
 
 ## 📚 Currently Learning
 
-**Mathematics:** Calculus · Linear Algebra · Probability · Proofs
 
-**ML/AI:** Deep Learning · RAG · LLMs · Vector Databases · Knowledge Graphs
+**Mathematics** — Calculus · Linear Algebra · Probability · Proofs
+
+**AI/ML** — Deep Learning · RAG · LLMs · Knowledge Graphs
 
 ---
-
-## 🧠 Philosophy
 
 > **Don't just learn the API. Understand the abstraction.**
-
-```text
-Problem → Abstraction → Implementation → Trade-offs → Build it
-```
-
----
 
 <p align="center">
   <i>Building slowly. Understanding deeply. Shipping consistently.</i>
 </p>
+
 
