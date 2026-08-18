@@ -2,10 +2,6 @@
 
 ### Computer Science • Systems • ML/AI • Mathematics
 
-I'm a Computer Science student interested in understanding software **from first principles** — from operating systems and distributed systems to machine learning and the mathematics behind it.
-
-Currently learning and building around **Systems Engineering × Machine Learning × Mathematics × Research**.
-
 ---
 
 ## 📊 GitHub Stats
@@ -36,15 +32,10 @@ Currently learning and building around **Systems Engineering × Machine Learning
 ## 🚀 Projects
 
 * 🧠 **Context-Aware Assistant** — RAG, memory & scalable backend systems
-* 📚 **BCA Knowledge Assistant** — RAG-based university Q&A system
-* 🚆 **Railway Reservation System** — database-driven application
-* 🗺️ **Yatri AI** — AI travel assistant
 
 ---
 
 ## 📚 Currently Learning
-
-**Systems:** OS · C/C++ · Networking · Databases · Distributed Systems
 
 **Mathematics:** Calculus · Linear Algebra · Probability · Proofs
 
